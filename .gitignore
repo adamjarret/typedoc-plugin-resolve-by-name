@@ -1,0 +1,9 @@
+.*/*
+!.vscode/cSpell.json
+
+node_modules/
+dist/
+
+*.tsbuildinfo
+
+typedoc-plugin-resolve-by-name*.tgz

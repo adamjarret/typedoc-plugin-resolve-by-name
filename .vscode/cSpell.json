@@ -1,0 +1,18 @@
+{
+  "words": [
+    "Jarret",
+    "typedoc",
+    "typedocplugin",
+    "tsbuildinfo",
+    "downlevel",
+    "eslintignore"
+  ],
+  "ignorePaths": [
+    ".git",
+    "node_modules",
+    "dist",
+    "*.tgz",
+    "*.tsbuildinfo",
+    "package-lock.json"
+  ]
+}

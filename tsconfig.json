@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "target": "es6",
+    "sourceMap": true,
+    "downlevelIteration": true,
+    "inlineSources": true,
+    "outDir": "./dist",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "incremental": true,
+    "lib": ["es6"]
+  },
+  "include": ["src"]
+}
